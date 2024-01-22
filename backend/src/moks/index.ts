@@ -1,0 +1,72 @@
+export const users = [
+    {
+        "_id": "65ad590e627a7e04bdf54448",
+        "isActive": true,
+        "balance": "$3,101.06",
+        "picture": "http://placehold.it/32x32",
+        "age": 29,
+        "eyeColor": "blue",
+        "name": "Connie Harrell",
+        "gender": "female",
+        "company": "AQUASSEUR",
+        "email": "connieharrell@aquasseur.com",
+        "phone": "+1 (929) 549-2559",
+        "address": "414 Erasmus Street, Alfarata, Arizona, 5235"
+    },
+    {
+        "_id": "65ad590ee101f023fa7ddaa5",
+        "isActive": true,
+        "balance": "$3,468.29",
+        "picture": "http://placehold.it/32x32",
+        "age": 35,
+        "eyeColor": "blue",
+        "name": "Susanna Johnson",
+        "gender": "female",
+        "company": "PROTODYNE",
+        "email": "susannajohnson@protodyne.com",
+        "phone": "+1 (937) 528-2755",
+        "address": "118 Turner Place, Swartzville, Northern Mariana Islands, 3734"
+    },
+    {
+        "_id": "65ad590e7852e415c1b08d91",
+        "isActive": false,
+        "balance": "$3,753.28",
+        "picture": "http://placehold.it/32x32",
+        "age": 23,
+        "eyeColor": "green",
+        "name": "Karen Barry",
+        "gender": "female",
+        "company": "KAGGLE",
+        "email": "karenbarry@kaggle.com",
+        "phone": "+1 (862) 527-2256",
+        "address": "455 Legion Street, Haena, Delaware, 3718"
+    },
+    {
+        "_id": "65ad590e73703edf3facd994",
+        "isActive": true,
+        "balance": "$2,729.98",
+        "picture": "http://placehold.it/32x32",
+        "age": 34,
+        "eyeColor": "green",
+        "name": "Dollie Cobb",
+        "gender": "female",
+        "company": "VIOCULAR",
+        "email": "dolliecobb@viocular.com",
+        "phone": "+1 (818) 532-3935",
+        "address": "949 Moore Place, Watchtower, Texas, 5271"
+    },
+    {
+        "_id": "65ad590e0da0b9bf4ca3c0c6",
+        "isActive": false,
+        "balance": "$2,165.80",
+        "picture": "http://placehold.it/32x32",
+        "age": 39,
+        "eyeColor": "blue",
+        "name": "Jeanne Taylor",
+        "gender": "female",
+        "company": "PRISMATIC",
+        "email": "jeannetaylor@prismatic.com",
+        "phone": "+1 (811) 512-3566",
+        "address": "403 Norfolk Street, Belva, Connecticut, 1762"
+    }
+]
